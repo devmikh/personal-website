@@ -1,0 +1,59 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+
+<svg
+   width="160mm"
+   height="160mm"
+   viewBox="0 0 160 160"
+   version="1.1"
+   id="svg1220"
+   inkscape:version="1.2.2 (732a01da63, 2022-12-09)"
+   sodipodi:docname="smylogo2.svg"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:svg="http://www.w3.org/2000/svg">
+  <sodipodi:namedview
+     id="namedview1222"
+     pagecolor="#333333"
+     bordercolor="#000000"
+     borderopacity="0.25"
+     inkscape:showpageshadow="2"
+     inkscape:pageopacity="0"
+     inkscape:pagecheckerboard="0"
+     inkscape:deskcolor="#d1d1d1"
+     inkscape:document-units="mm"
+     showgrid="false"
+     inkscape:zoom="0.35355339"
+     inkscape:cx="195.16147"
+     inkscape:cy="461.03362"
+     inkscape:window-width="1920"
+     inkscape:window-height="1017"
+     inkscape:window-x="-8"
+     inkscape:window-y="-8"
+     inkscape:window-maximized="1"
+     inkscape:current-layer="layer1">
+    <inkscape:grid
+       type="xygrid"
+       id="grid614" />
+  </sodipodi:namedview>
+  <defs
+     id="defs1217" />
+  <g
+     inkscape:label="Layer 1"
+     inkscape:groupmode="layer"
+     id="layer1">
+    <path
+       style="fill:#00ffff;stroke-width:1.0241;fill-opacity:1"
+       d="m 33.560304,83.082929 v 10.154769 l 42.344948,36.557212 v 22.34051 h 8.262441 V 129.79491 L 126.5126,93.237698 V 83.082929 L 80.036453,123.70204 Z"
+       id="path817-5-6-7-9" />
+    <path
+       style="fill:#00ffff;fill-opacity:1;stroke-width:1.0241"
+       d="M 69.708396,141.98065 21.166667,101.3615 V 60.74239 h 7.229609 l 51.640177,45.6965 51.640137,-45.6965 h 7.22966 V 101.3615 L 90.364475,141.98065 V 131.82584 L 131.67659,96.284137 V 70.897157 L 80.036453,116.59367 28.396276,70.897157 v 25.38698 l 41.31212,35.541703 z"
+       id="path18834-9" />
+    <path
+       style="fill:#00ffff;fill-opacity:1;stroke-width:1.0241"
+       d="M 126.51264,58.711419 V 48.507024 L 80.036493,7.9375 52.440522,32.925784 98.664116,73.310891 80.036493,89.170197 33.560345,48.556649 V 58.705431 L 80.036493,99.330564 109.5005,72.692084 63.355163,32.287136 80.025211,18.090272 Z"
+       id="path31006" />
+  </g>
+</svg>
